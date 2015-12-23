@@ -14,6 +14,7 @@
  */
 
 // For using yslow in phantomjs, see instructions @ http://yslow.org/phantomjs/
+// For using phantomjs 2.0
 
 // parse args
 var i, arg, page, urlCount, viewport,
